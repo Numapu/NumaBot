@@ -10,7 +10,7 @@
   
 <h3 align="center">Made with ❤️ by</h3>
 <p align="center">
-  <a href="https://github.com/SlavyanDesu"><img src="https://avatars.githubusercontent.com/u/115563551?v=4" height="128" width="128" /></a>
+  <a href="https://github.com/Numapu"><img src="https://avatars.githubusercontent.com/u/115563551?v=4" height="128" width="128" /></a>
   <a href="https://github.com/apepiuwu"><img src="https://avatars.githubusercontent.com/u/102860126?v=4" height="128" width="128" /></a>
 </p>
 
@@ -27,7 +27,7 @@
 </p>
 
 <h4 align="center">
-  <a href="https://chat.whatsapp.com/EH6r86MVP3FEng5Ruajlif">Group Whatsapp</a>
+  <a href="https://chat.whatsapp.com/EH6r86MVP3FEng5RuajIif">Group Whatsapp</a>
 </h4>
   
 
