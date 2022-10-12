@@ -1,0 +1,1 @@
+piyo.reply(from, `Ketik /wood teksnya`, id)
