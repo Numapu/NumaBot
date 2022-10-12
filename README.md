@@ -2,7 +2,7 @@
 <div align="center">
 <img src="http://numapa.site/bot/nuqibot.jpg" alt="NumaBot" width="400" />
 
-# Piyobot
+# NumaBot
   
 > Gwehj buat bot karena gabut coy, kasih gwehj saran ato fitur baru buat nih bot
 
@@ -27,7 +27,7 @@
 </p>
 
 <h4 align="center">
-  <a href="https://chat.whatsapp.com/Lb8nqO0WNoeJfR2bUGrZXf">Group Whatsapp</a>
+  <a href="https://chat.whatsapp.com/EH6r86MVP3FEng5Ruajlif">Group Whatsapp</a>
 </h4>
   
 
