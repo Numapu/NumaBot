@@ -82,6 +82,7 @@ Untuk Mendapatkan Apikey nya , daftar akun terlebih dahulu di website tersebut
 ## 🔍 Menginstal dependensi
 ```bash
 > npm i
+> npm i --save @open-wa/wa-automate@latest
 > npm update
 ```
 
